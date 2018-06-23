@@ -16,7 +16,7 @@ If "Typing Tutor.exe" isn't working then the game can be compiled using any of t
 using the command "g++ -o main.exe mygraphics.cpp myconsole.cpp main.cpp - lgdi32"
 
 ## Screenshot
-![Game Play Screenshot](../master/screenshot.PNG)
+![Game Play Screenshot](../master/1.PNG)
 
 INSTRUCTIONS TO PLAY THE GAME                      
 -----------------------------
