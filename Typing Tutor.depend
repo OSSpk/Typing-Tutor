@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1447579739 source:c:\users\muhammadharris\desktop\typing tutor\main.cpp
+	<iostream>
+	"mygraphics.h"
+	"myconsole.h"
+	<windows.h>
+
+1443370075 source:c:\users\muhammadharris\desktop\typing tutor\myconsole.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"myconsole.h"
+
+1443370075 c:\users\muhammadharris\desktop\typing tutor\myconsole.h
+
+1443625951 source:c:\users\muhammadharris\desktop\typing tutor\mygraphics.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1443625952 c:\users\muhammadharris\desktop\typing tutor\mygraphics.h
+	<windows.h>
+
+1443370075 source:m:\fast\1st semester\intro to computing( itc )\project\typing tutor\myconsole.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"myconsole.h"
+
+1443370075 m:\fast\1st semester\intro to computing( itc )\project\typing tutor\myconsole.h
+
+1443625951 source:m:\fast\1st semester\intro to computing( itc )\project\typing tutor\mygraphics.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1448269821 source:m:\fast\1st semester\intro to computing( itc )\project\typing tutor\main.cpp
+	<iostream>
+	"mygraphics.h"
+	"myconsole.h"
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1443625952 m:\fast\1st semester\intro to computing( itc )\project\typing tutor\mygraphics.h
+	<windows.h>
+
+1448269822 source:m:\fast\1st semester\intro to computing( itc )\project\typing tutor\typing tutor\main.cpp
+	<iostream>
+	"mygraphics.h"
+	"myconsole.h"
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1443625954 m:\fast\1st semester\intro to computing( itc )\project\typing tutor\typing tutor\mygraphics.h
+	<windows.h>
+
+1443370076 m:\fast\1st semester\intro to computing( itc )\project\typing tutor\typing tutor\myconsole.h
+
+1443370076 source:m:\fast\1st semester\intro to computing( itc )\project\typing tutor\typing tutor\myconsole.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"myconsole.h"
+
+1443625952 source:m:\fast\1st semester\intro to computing( itc )\project\typing tutor\typing tutor\mygraphics.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1483634166 source:m:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\main.cpp
+	<iostream>
+	"mygraphics.h"
+	"myconsole.h"
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1443625954 m:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\mygraphics.h
+	<windows.h>
+
+1443370076 m:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\myconsole.h
+
+1443370076 source:m:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\myconsole.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"myconsole.h"
+
+1443625952 source:m:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\mygraphics.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1483634166 source:d:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\main.cpp
+	<iostream>
+	"mygraphics.h"
+	"myconsole.h"
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1443625954 d:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\mygraphics.h
+	<windows.h>
+
+1443370076 d:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\myconsole.h
+
+1443370076 source:d:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\myconsole.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"myconsole.h"
+
+1529750620 source:d:\fast\1st semester    (fall 2015)\intro to computing( itc )\project\typing tutor\typing tutor\mygraphics.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
