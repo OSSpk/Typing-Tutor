@@ -4,7 +4,7 @@ A visually appealing and interactive Typing Tutor game made using C++.
 
 It was made as a final project for my course Introduction to Computing CS101.
 
-## How to use
+## How to Run
 
 There's a file named "Typing Tutor.exe". Just run it and the game will start.
 
