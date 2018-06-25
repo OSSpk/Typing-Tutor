@@ -13,7 +13,8 @@ If "Typing Tutor.exe" isn't working then the game can be compiled using any of t
 1) The project is compiled using Code Blocks. So, there is a file named "Typing Tutor.cbp". Open it in Code Blocks and the whole project will load up with all files. Then just click "Build and Run" and the game will start. {Add the libgdi32 library in Code Blocks using project->build options->linker settings-> add button (find libgdi32 for your compiler)} 
 
 2) To have the best experience it is HIGHLY RECOMMENDED to compile the main.cpp file of the game using G++
-using the command ```g++ -o main.exe mygraphics.cpp myconsole.cpp main.cpp - lgdi32```
+using the command:
+ ```g++ -o main.exe mygraphics.cpp myconsole.cpp main.cpp - lgdi32```
 
 ## Screenshot
 ![Game Play Screenshot](../master/1.PNG)
