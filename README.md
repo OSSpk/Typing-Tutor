@@ -18,7 +18,7 @@ using the command "g++ -o main.exe mygraphics.cpp myconsole.cpp main.cpp - lgdi3
 ## Screenshot
 ![Game Play Screenshot](../master/1.PNG)
 
-INSTRUCTIONS TO PLAY THE GAME                      
+Instructions to Play the Game                      
 -----------------------------
 The rules of my game "Typing Tutor" are :
 
