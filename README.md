@@ -17,7 +17,7 @@ using the command:
  ```g++ -o main.exe mygraphics.cpp myconsole.cpp main.cpp - lgdi32```
 
 ## Screenshot
-![Game Play Screenshot](../master/1.PNG)
+![Game Play Screenshot](../master/interface.png)
 
 Instructions to Play the Game                      
 -----------------------------
