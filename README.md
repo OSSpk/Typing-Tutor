@@ -1,4 +1,12 @@
-# Typing-Tutor
+
+# Typing-Tutor  🎮 
+
+[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
+[![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Typing-Tutor.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Typing-Tutor.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/issues)
+
+
+
 
 A visually appealing and interactive Typing Tutor game made using C++. 
 
@@ -52,13 +60,14 @@ Enjoy !!!!!!!
 
 
 ## Contact
-You can get in touch with me on my LinkedIn Profile: [Haris Muneer](https://www.linkedin.com/in/harismuneer/)
+You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/harismuneer)
 
 ## Issues
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 ## License
-[MIT](../master/LICENSE)
+[![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 Copyright (c) 2018-present, harismuneer
 
 
