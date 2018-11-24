@@ -76,5 +76,10 @@ If you face any issue, you can create a new issue in the Issues Tab and I will b
 
 Copyright (c) 2018-present, harismuneer
 
+-----------------------------
+
+If you liked the repo then kindly support it by giving it a star ⭐! You can also follow me to stay updated about my latest projects.
+[![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
+
 
                                                           
