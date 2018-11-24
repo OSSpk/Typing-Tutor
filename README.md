@@ -61,7 +61,7 @@ Enjoy !!!!!!!
 
 ## Contact
 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/harismuneer)
+)](https://www.linkedin.com/in/harismuneer)
 
 ## Issues
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
