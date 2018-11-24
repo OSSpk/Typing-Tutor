@@ -1,7 +1,7 @@
 
 # Typing-Tutor  🎮 
 
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Typing-Tutor.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/fork)
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Typing-Tutor.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/issues)
 
@@ -74,7 +74,7 @@ If you liked the repo then kindly support it by giving it a star ⭐!
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 ## License
-[![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
+[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
 Copyright (c) 2018-present, harismuneer
 
