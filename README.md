@@ -60,11 +60,13 @@ The rules of my game "Typing Tutor" are :
 Enjoy !!!!!!!
 
 
-## Contact
+## Author
 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/harismuneer)
 
 You can also follow me on GitHub to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
+
+If you liked the repo then kindly support it by giving it a star ⭐! [![GitHub Stars](https://img.shields.io/github/stars/harismuneer/Typing-Tutor.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/stargazers)
 
 ## Issues
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Typing-Tutor.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/issues)
@@ -76,9 +78,7 @@ If you face any issue, you can create a new issue in the Issues Tab and I will b
 
 Copyright (c) 2018-present, harismuneer
 
------------------------------
 
-If you liked the repo then kindly support it by giving it a star ⭐! 
 
 
                                                           
