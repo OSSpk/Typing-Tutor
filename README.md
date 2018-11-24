@@ -61,14 +61,19 @@ Enjoy !!!!!!!
 
 
 ## Contact
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+[![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/harismuneer)
 
+You can get in touch with me on my LinkedIn Profile. 
+
 ## Issues
+[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Typing-Tutor.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/issues)
+
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 ## License
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
+
 Copyright (c) 2018-present, harismuneer
 
 
