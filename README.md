@@ -66,7 +66,7 @@ You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://i
 
 You can also follow me on GitHub to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
 
-If you liked the repo then kindly support it by giving it a star ⭐! [![GitHub Stars](https://img.shields.io/github/stars/harismuneer/Typing-Tutor.svg?style=social&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/stargazers)
+If you liked the repo then kindly support it by giving it a star ⭐! [![GitHub Stars](https://img.shields.io/github/stars/harismuneer/Typing-Tutor.svg?style=social&label=Star&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/stargazers)
 
 ## Issues
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Typing-Tutor.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/issues)
