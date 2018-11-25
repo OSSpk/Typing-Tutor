@@ -71,6 +71,11 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
+## Contributions Welcome
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
+
+If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
+
 ## Issues
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Typing-Tutor.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/issues)
 
@@ -80,7 +85,6 @@ If you face any issue, you can create a new issue in the Issues Tab and I will b
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
 Copyright (c) 2018-present, harismuneer
-
 
 
 
