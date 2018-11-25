@@ -1,3 +1,6 @@
+<p align=center>
+ <img src="../master/gameplay.gif" width=700 height = 450/>
+</p>
 
 # Typing-Tutor  🎮 
 
