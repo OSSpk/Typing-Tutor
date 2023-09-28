@@ -21,7 +21,30 @@ It was made as a final project for my course Introduction to Computing CS101 dur
 
 ## How to Run
 
-There's a file named "Typing Tutor.exe". Just run it and the game will start.
+If you would like to run the .exe directly from the file explorer:
+
+Click the code dropdown and download the project folder.
+Navigate to the download location and into the Code folder.
+Right click on the "Typing Tutor.exe" file to run it.
+
+If you would like to work on and run the project within an IDE:
+
+Follow the same steps as previous to download the repository.
+Open the project in your IDE.
+Open a terminal window from within the Code folder.
+
+Powershell:
+Typing ```.\Typing Tutor.exe``` will not work as the name has a space.
+Instead, type the command "& '.\Typing Tutor.exe'"
+A faster way to type this is to start with ```.\Typing``` and then press TAB.
+The TAB will autocomplete the command for you to the command shown above.
+It may autocomplete to ```& '.\Typing Tutor.cbp'```, so just replace the cbp with exe afterwards.
+
+Git Bash:
+Git Bash does not recognize the ```&``` so you will just omit it to run the executable.
+```'.\Typing Tutor.exe``` will start the game.
+Note that TAB for autocomplete is not built into Git Bash.
+If you would like to use autocomplete here, download the appropriate bash completion package.
 
 If "Typing Tutor.exe" isn't working then the game can be compiled using any of the two ways:
 
