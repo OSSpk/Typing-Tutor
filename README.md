@@ -35,7 +35,7 @@ Open a terminal window from within the Code folder.
 
 Powershell:
 Typing ```.\Typing Tutor.exe``` will not work as the name has a space.
-Instead, type the command "& '.\Typing Tutor.exe'"
+Instead, type the command ```& '.\Typing Tutor.exe'```
 A faster way to type this is to start with ```.\Typing``` and then press TAB.
 The TAB will autocomplete the command for you to the command shown above.
 It may autocomplete to ```& '.\Typing Tutor.cbp'```, so just replace the cbp with exe afterwards.
