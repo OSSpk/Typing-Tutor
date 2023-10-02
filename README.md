@@ -21,50 +21,46 @@ It was made as a final project for my course Introduction to Computing CS101 dur
 
 ## How to Run
 
-There's a file named "Typing Tutor.exe". Just run it and the game will start.
+First, download the file "Typing Tutor.exe" 
+Once the download is complete, click the file and the game will start running!
+NOTE: The game will run on a terminal!
 
 If "Typing Tutor.exe" isn't working then the game can be compiled using any of the two ways:
 
-1) The project is compiled using Code Blocks. So, there is a file named "Typing Tutor.cbp". Open it in Code Blocks and the whole project will load up with all files. Then just click "Build and Run" and the game will start. {Add the libgdi32 library in Code Blocks using project->build options->linker settings-> add button (find libgdi32 for your compiler)} 
+1) The project is compiled using Code Blocks. So, there is a file named "Typing Tutor.cbp". Open it in Code Blocks and the whole project will load up with all files. Then just click "Build and Run" and the game will start. NOTE: Before running, add the libgdi32 library in Code Blocks by following below:
+   
+     ```project->build options->linker settings->add button (find libgdi32 for your compiler) ```
 
-2) To have the best experience it is HIGHLY RECOMMENDED to compile the main.cpp file of the game using G++
-using the command:
- ```g++ -o main.exe mygraphics.cpp myconsole.cpp main.cpp - lgdi32```
+
+2) To have the best experience it is HIGHLY RECOMMENDED to compile the main.cpp file of the game using G++ using the command:
+   
+    ```g++ -o main.exe mygraphics.cpp myconsole.cpp main.cpp - lgdi32```
 
 ## Screenshot
 ![Game Play Screenshot](../master/interface.png)
 
-Instructions to Play the Game                      
+How to Play the Game:                    
 -----------------------------
-The rules of my game "Typing Tutor" are :
 
---  You are provided with a Typing Box . A Box is shown moving vertically on the screen with a
-    word in it.There are five still boxes containing words.
+--  You are provided with a Typing Box, seen on the bottom/middle of the screen in yellow. This is where your typed words characters will appear.
+    Another blue Box is shown moving vertically on the left side of thescreen with a word in it. This is the world you want to type correctly.
+    Finally, there are five still red boxes on the left containing words. The goal is the have the blue box collide with the red counterpart, so that both words match!
  
---  If you type the word shown in the moving box , correctly, then the moving box will
-    start to move leftwards otherwise if you have entered an incorrect word in the Typing
-    Box then you will lose one life .
+--  If you type the word shown in the blue box correctly, then it will start to move leftwards. 
+    Otherwise if you entered an incorrect word then you will lose one life and the field will clear.
  
---  When the moving Box collides with a still box (after the moving box has completely
-    moved leftwards) , then if the words in both boxes are same , then your score
-    will increase by one , otherwise you will lose one life. 
+-- After typing any of the correct word, the blue box will collide with a red box as seen on the left of the screen. 
+   If the words in both boxes are same, then your score will increase by one. Oherwise you will lose one life.   
 
---  When the word you entered in the Typing Box do no match with that of the word in the Moving Box
-    then your no. of lives will reduce by one .    
+--  In order to win the game you need to attain a score of 10 i.e by matching ten times correctly .
 
---  In order to win the game , you need to attain a score of 10 i.e by matching
-    Ten times correctly .
+--  You have a total of 5 lives in the beginning. If you lose all of your lives, then you lose the game.
 
---  You have a total of 5 lives in the beginning and if you lose all your lives i.e when you have
-    0 lives , then you will lose the game and the game will end.
-
---  Once you have typed a character in the typing box , it cannot be removed by using
-    BACKSPACE or DELETE key . So be careful while playing ;)
+--  Once you have typed a character in the typing box , it cannot be removed by using BACKSPACE or DELETE key. So be careful while playing ;)
 
 --  There are a total of four levels . Choose which ever level you want to play. Each one is more difficult than previous one.
 
 Enjoy !!!!!!!
-
 
 <hr>
 
@@ -130,6 +126,14 @@ If you liked the repo then kindly support it by giving it a star ⭐ and share i
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
+Improvements could include more levels, updated graphics, or new functionality. 
+Really anything that can help the user learn to type!
+
+## File Organization
+- Words_#.txt holds all of the words for each level. If adding more levels with more words, ensure there is a words txt file with the # replaced by the level number
+- main.cpp contains the overall functionality of the game. Note: there are descriptions of what each function does at the top of the main file
+- mygraphics.cpp and mygraphics.h are where the functions that create shapes are held. If wanting to add more shapes or new graphics, this would be the file to do so.
+- myconsole.cpp and myconsole.h handle the user interface with the game. Such as cursor location and key pressed. This file has general functionality of all user input, so should not be needing much adjusting.
 
 ## Issues
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Typing-Tutor.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Typing-Tutor/issues)
