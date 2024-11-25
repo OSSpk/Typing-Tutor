@@ -4,6 +4,29 @@
 
 # Typing-Tutor  🎮 
 
+## Table of Contents
+
+1) How to Run
+
+2) Screenshot
+
+3) Instructions to Play the Game
+
+4) Connect
+
+5) Consulting/Coaching
+
+6) Technical Skills & Expertise
+
+7) Support/Donations
+
+8) Author
+
+9) Contributions Welcome
+
+10) Issues
+
+11) License
 
 <a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
@@ -38,30 +61,30 @@ Instructions to Play the Game
 -----------------------------
 The rules of my game "Typing Tutor" are :
 
---  You are provided with a Typing Box . A Box is shown moving vertically on the screen with a
-    word in it.There are five still boxes containing words.
+--  There are a total of four levels. The level of difficulty is determined by the speed
+    of the moving box and the number of letters in each word.
+
+--  You are provided with a Typing Box. A Box is shown moving vertically on the screen with a
+    word in it. There are five still boxes containing words.
  
---  If you type the word shown in the moving box , correctly, then the moving box will
-    start to move leftwards otherwise if you have entered an incorrect word in the Typing
-    Box then you will lose one life .
+--  The aim of the game is to try and type the word in the moving box correctly when
+    the moving box matches up with its corresponding still box. 
  
---  When the moving Box collides with a still box (after the moving box has completely
-    moved leftwards) , then if the words in both boxes are same , then your score
-    will increase by one , otherwise you will lose one life. 
+--  When the moving box collides with a still box (after the moving box has completely
+    moved leftwards), then if the words in both boxes are the same, your score
+    will increase by one, otherwise you will lose one life.     
 
---  When the word you entered in the Typing Box do no match with that of the word in the Moving Box
-    then your no. of lives will reduce by one .    
+--  In order to win the game, you need to obtain a score of ten by matching the moving box
+     with the still box ten times before losing all of your lives.
 
---  In order to win the game , you need to attain a score of 10 i.e by matching
-    Ten times correctly .
+--  You have a total of five lives in the beginning and if you lose all your lives or when
+    your life counter reaches 0, then you will lose the game and the game will end.
 
---  You have a total of 5 lives in the beginning and if you lose all your lives i.e when you have
-    0 lives , then you will lose the game and the game will end.
+--  Once you have typed a character in the typing box, it cannot be removed by using
+    BACKSPACE or DELETE key.
 
---  Once you have typed a character in the typing box , it cannot be removed by using
-    BACKSPACE or DELETE key . So be careful while playing ;)
-
---  There are a total of four levels . Choose which ever level you want to play. Each one is more difficult than previous one.
+--  Do not use the SHIFT key for capitalization. This will enter a character that will
+    cause your word to be wrong. For this program, all letters are automatically capitalized.
 
 Enjoy !!!!!!!
 
